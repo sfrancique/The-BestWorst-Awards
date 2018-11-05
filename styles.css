@@ -1,0 +1,38 @@
+body {
+    background-color:pink;
+}
+h1 {
+    text-align:center;
+}
+body{
+    font-family: 'Mali', cursive;
+}
+#a {
+    width:200px;
+
+    margin-left:350px;
+}
+h2 {
+    font-size:35px;
+    text-align:center;
+    }
+#b {
+    margin-left:315px;
+    width:350px;
+}
+h3 {
+     font-size:35px;
+     text-align:center;
+}
+#c {
+    margin-left:250px;
+    width:450px;
+}
+h4 {
+    font-size:35px;
+     text-align:center;
+}
+#d {
+     width:300px;
+     margin-left:300px;
+}
